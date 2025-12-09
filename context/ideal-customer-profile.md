@@ -4,6 +4,38 @@ Define your target audience for cold email campaigns. Fill in this template to p
 
 ---
 
+## What is an Ideal Customer Profile (ICP)?
+
+An **Ideal Customer Profile (ICP)** is a detailed description of the type of company or individual that would gain the most value from your product or service—and in turn, provide the most value to your business. Unlike broad market segments, an ICP is highly specific and actionable.
+
+### Why ICP Matters for Cold Email
+
+1. **Higher Response Rates** - Emails sent to prospects who match your ICP are 3-5x more likely to get responses because your message resonates with their actual needs and challenges.
+
+2. **Better Personalization** - A well-defined ICP provides the foundation for meaningful personalization. When you understand your ideal customer's pain points, goals, and language, your emails feel relevant rather than generic.
+
+3. **Efficient Resource Allocation** - Instead of spraying emails to everyone, you focus your time and budget on prospects most likely to convert, improving ROI on your outbound efforts.
+
+4. **Shorter Sales Cycles** - Prospects who fit your ICP already have the problems you solve, the budget to invest, and the authority to decide—leading to faster deal closures.
+
+5. **Improved AI Output** - When using AI to generate email content, a detailed ICP provides essential context that dramatically improves the quality and relevance of generated emails.
+
+### ICP vs. Buyer Persona
+
+- **ICP** defines the *company or account* characteristics (industry, size, tech stack, etc.)
+- **Buyer Persona** defines the *individual* within that company (title, responsibilities, motivations)
+
+Both are included in this template because effective cold email requires understanding both the organizational fit AND the personal drivers of your target contact.
+
+### How to Build Your ICP
+
+1. **Analyze your best customers** - Look at your highest-value, lowest-churn customers. What do they have in common?
+2. **Interview sales and success teams** - They know which prospects convert and which customers thrive.
+3. **Review lost deals** - Identify patterns in prospects who didn't convert—these become disqualifiers.
+4. **Start specific, then expand** - It's better to start with a narrow, well-defined ICP and broaden later than to cast too wide a net initially.
+
+---
+
 ## Instructions
 
 1. Fill in each section with specifics about your ideal customer
